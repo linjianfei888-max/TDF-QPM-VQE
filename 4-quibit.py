@@ -1,4 +1,4 @@
-# 4qubit_vqe_nn_perfect.py
+# 4-qubit.py
 # TDF-QPM: 4‑qubit VQE with perfect reversibility
 # Energy → < 10⁻⁵, Entropy: ln(16)≈2.773 → 0 → 2.773
 # Auto-generates data/4qubit_forward.csv and data/4qubit_reverse.csv
