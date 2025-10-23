@@ -1,4 +1,4 @@
-# 2qubit_vqe_nn_perfect.py
+# 2-qubit.py
 # TDF-QPM: 2-qubit VQE with perfect reversibility
 # Energy → 1e-5, Entropy: 1.386 → 0 → 1.386
 # Auto-generates data/2qubit_forward.csv and data/2qubit_reverse.csv
